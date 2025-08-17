@@ -45,6 +45,7 @@
 
     <div class="footer">
       <p class="hint">Tip: After submitting, check your <strong>phpMyAdmin</strong> to see the saved message.</p>
+      <p>Form updated successfully 🚀</p>
     </div>
   </div>
 </body>
